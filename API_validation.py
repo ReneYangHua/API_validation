@@ -2,7 +2,7 @@
 Author: Rene Yang
 Email: yang.rene@outlook.com
 Version: 1.0
-Release Date: 2022-04-10
+Release Date: 2022-04-08
 Programming language: python 3.8.x
 Description: This script is used to do the validation check for the API message in the following link.
     https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
