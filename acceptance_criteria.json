@@ -1,0 +1,9 @@
+{
+  "Name": "Carbon credits",
+  "CanRelist":true,
+  "Promotions": [
+    {
+      "Name":  "Gallery",
+      "Description": "Good position in category"
+    }]
+}
