@@ -20,6 +20,7 @@ This script is used to do the validation check for the API message from the Web 
         • The Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category".
         If you hope to change the acceptance criteria, please edit the "acceptance_criteria.json" with JSON format first.
     3. The validation result will be PASS when all the acceptance criteria are met. If one of them are not met, the validation result will be FAIL.
+    4. The default logs folder is logs in the parent folder.
 *****************************************************
 *                   Usage                           *
 *****************************************************
